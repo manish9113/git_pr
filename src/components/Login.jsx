@@ -77,7 +77,7 @@ const Login=()=>{
      }
      
      const CreateAccount=()=>{
-          
+          account=='login'
      }
 
      const onValueChange=()=>{
